@@ -1,4 +1,4 @@
-import { data } from "autoprefixer";
+
 import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 
